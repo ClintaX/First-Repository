@@ -5,6 +5,7 @@
 		<tr>
 			<td>I Found Something</td>
 			<td>I Found Nothing</td>
+			<td>I Found One</td>
 		</tr>
 	</table>
 @stop
