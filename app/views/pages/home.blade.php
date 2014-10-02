@@ -7,6 +7,7 @@
 			<td>I Found Nothing</td>
 			<td>I Found One</td>
 			<td>I OKew One</td>
+			<td>I OKew Two</td>
 		</tr>
 	</table>
 @stop
