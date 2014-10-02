@@ -1,5 +1,7 @@
+
 @extends('layouts.default')
 @section('content')
+{{ HTML::script('assets/js/_home.js') }}
 	<h1>Hi Clint Ariola</h1>
 	<table>
 		<tr>
