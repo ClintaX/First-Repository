@@ -8,6 +8,7 @@
 			<td>I Found One</td>
 			<td>I OKew One</td>
 			<td>I OKew Two</td>
+			<td>I OKew Three</td>
 		</tr>
 	</table>
 @stop
