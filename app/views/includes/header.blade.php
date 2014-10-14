@@ -1,4 +1,5 @@
-<div class="container">
+<img src = 'assets/img/robot.jpg' width= "100%" />
+<div class="container" id='headerPanel'>
 	<div class="row clearfix">
 		<div class="col-md-12 column">
 			<ul class="nav nav-tabs">
@@ -14,8 +15,7 @@
 				<li id = 'btn_contact' class ='c_menu'>
 					<a href="/MarketOnline/contact">Contact</a>
 				</li>
-				<li  class="pull-right">
-					<h4 id='clone'></h4>
+				<li   id='clone' class="pull-right">
 				</li>
 			</ul>
 		</div>
